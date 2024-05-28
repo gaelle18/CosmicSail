@@ -1,2 +1,2 @@
-# cosmicsail.github.io
+# CosmicSail
 Module pédagogique interactif
