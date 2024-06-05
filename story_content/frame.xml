@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="DestinationCosmicSail Juin 2024" />
+              <option name="title_text" value="Destination CosmicSail Juin 2024" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1583,7 +1583,8 @@
       <links>
         <slidelink slideid="_player.61FZAQJugSj" displaytext="Scène sans titre" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.61FZAQJugSj.5kzrbKCXdm0" displaytext="Destination CosmicSail" expand="false" type="slide" />
+            <slidelink slideid="_player.61FZAQJugSj.5kzrbKCXdm0" displaytext="Indications" expand="false" type="slide" />
+            <slidelink slideid="_player.61FZAQJugSj.6nfjz5kiGta" displaytext="Destination CosmicSail" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.6lDipzhBtIA" displaytext="Il était une fois" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.6jhWriNJq3r" displaytext="Sur l&amp;apos;eau" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.6MYhZMB5arx" displaytext="Couleurs dans le ciel" expand="false" type="slide" />
@@ -1614,7 +1615,7 @@
             <slidelink slideid="_player.61FZAQJugSj.6dYKG1hVXag" displaytext="quiz2" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.696Yvi5WMvj" displaytext="quiz3" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.5ZuqLMqS2rf" displaytext="quiz4" expand="false" type="slide" />
-            <slidelink slideid="_player.61FZAQJugSj.5cH3ZLpkXA4" displaytext="Intw Grégory Leclout" expand="false" type="slide" />
+            <slidelink slideid="_player.61FZAQJugSj.5tjSm6piSPT" displaytext="Intw Grégory Leclout" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.5rfOxjQRLNv" displaytext="aurore espace" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.5fVCeMvx7FH" displaytext="aurore surface" expand="false" type="slide" />
             <slidelink slideid="_player.61FZAQJugSj.5VOVxrWggHw" displaytext="Intw Virgil Reglioni" expand="false" type="slide" />
